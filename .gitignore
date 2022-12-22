@@ -7,6 +7,7 @@
 # MadCap file patterns
 /Output
 /Analyzer
+/Content/Course-Test
 /FileSync
 /Project/Users
 /.svn
